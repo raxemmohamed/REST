@@ -1,0 +1,22 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raxemmohamed/REST.git"
+  },
+  "author": "Raxem Mohamed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raxemmohamed/REST/issues"
+  },
+  "homepage": "https://github.com/raxemmohamed/REST#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
